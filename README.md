@@ -34,7 +34,11 @@ This project is a Sales Data Analytics Dashboard created using Microsoft Power B
 - Business Intelligence
 
 ## Project Screenshot
-(Add your dashboard screenshot here.)
+(![Sales Dashboard](sales-dashboard.png)
+)
 
 ## Author
 **RAM PRATHAP**
+
+## Dashboard Preview 
+
